@@ -1,5 +1,5 @@
 
-![developer](https://img.shields.io/badge/Developed%20By-Aadarsh%20Kumar-red)
+
 ---
 # Getting Started with Create React App
 
